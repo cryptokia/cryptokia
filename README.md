@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cryptokia
 - 👀 I’m interested in creating bots and google extensions
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to use web3 to get data directly from contracts, instead of reading data from the page's html.
 - 💞️ I’m looking to collaborate on cryptoblade calculator / automation
 - 📫 How to reach me: cryptokia131@gmail.com
 
